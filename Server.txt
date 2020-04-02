@@ -1,0 +1,8 @@
+IP: 10.34.1.42
+Port: 2212
+user: caoba
+pass: caoba
+
+jupyter: 8887
+contraseña : caoba
+token: b686609a32f239f5ea92255d9bf75ad3a3dea3de0ff7a5fc
